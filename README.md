@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Manish</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400" src="https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e472b55cv83x9dune3q9hxa3ra0ebm5yxtjyqrpnk37&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="coding">
+<img align="right" width="400" src="https://drive.google.com/drive/home" alt="coding">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-step360&label=Profile%20views&color=0e75b6&style=flat" alt="code-step360" /> </p>
