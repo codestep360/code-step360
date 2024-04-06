@@ -4,7 +4,7 @@
 <img align="right" width="400" src="https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e472b55cv83x9dune3q9hxa3ra0ebm5yxtjyqrpnk37&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="coding">
 
 
-<p align="left"> <img src="https://drive.google.com/drive/home" alt="code-step360" /> </p>
+<p align="left"> <img src="[https://drive.google.com/drive/home](https://drive.google.com/drive/home)" alt="code-step360" /> </p>
 
 - 🔭 I’m currently working on **Dating apps**
 
